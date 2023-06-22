@@ -1,0 +1,13 @@
+[Unit]
+Description=Rajang Milos server
+After=network.target
+StartLimitIntervalSec=0
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=shigahosoya
+ExecStart=/home/shigahosoya/mc-server/scripts/start.sh
+
+[Install]
+WantedBy=multi-user.target
