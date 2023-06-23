@@ -297,3 +297,165 @@
 [03:58:32] [Server thread/INFO]: Shiga left the game
 [03:58:43] [Server thread/INFO]: Saving the game (this may take a moment!)
 [03:58:43] [Server thread/INFO]: Saved the game
+[04:02:24] [Server thread/INFO]: VJunTU was shot by Skeleton
+[04:33:22] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[04:33:22] [Server thread/INFO]: VJunTU left the game
+[04:33:29] [User Authenticator #17/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[04:33:29] [Server thread/INFO]: VJunTU[/179.208.73.25:64051] logged in with entity id 154830 at (-57.29715934592722, 16.0, -111.27040169601321)
+[04:33:29] [Server thread/INFO]: VJunTU joined the game
+[05:03:32] [Server thread/INFO]: incalto has made the advancement [Enchanter]
+[05:05:55] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[05:05:55] [Server thread/INFO]: VJunTU left the game
+[05:06:05] [User Authenticator #18/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[05:06:05] [Server thread/INFO]: VJunTU[/179.208.73.25:56204] logged in with entity id 163508 at (-36.676486137872615, 16.0, -137.1737847470996)
+[05:06:05] [Server thread/INFO]: VJunTU joined the game
+[05:46:58] [Server thread/INFO]: incalto lost connection: Disconnected
+[05:46:58] [Server thread/INFO]: incalto left the game
+[05:51:31] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[05:51:31] [Server thread/INFO]: VJunTU left the game
+[10:48:34] [User Authenticator #19/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
+[10:48:34] [Server thread/INFO]: incalto[/187.57.16.185:60216] logged in with entity id 178232 at (39.37635770828288, 73.0, -83.8912538262428)
+[10:48:34] [Server thread/INFO]: incalto joined the game
+[12:18:37] [User Authenticator #20/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[12:18:37] [Server thread/INFO]: Shiga[/191.19.79.254:60892] logged in with entity id 202570 at (-33.06643101968456, 16.0, -92.17085939927125)
+[12:18:37] [Server thread/INFO]: Shiga joined the game
+[12:18:49] [Server thread/INFO]: <incalto> bom dia
+[12:18:52] [Server thread/INFO]: <Shiga> dia
+[12:19:09] [Server thread/INFO]: <incalto> eu fiz as fogueiras perto das batata pra cozinhar as comidas
+[12:19:22] [Server thread/INFO]: <Shiga> ai sim
+[12:40:52] [User Authenticator #21/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[12:40:52] [Server thread/INFO]: VJunTU[/179.208.73.25:54505] logged in with entity id 210643 at (-37.41089135696908, 16.0, -92.29099062472446)
+[12:40:52] [Server thread/INFO]: VJunTU joined the game
+[12:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[12:53:29] [Server thread/INFO]: <incalto> onde eu buildo a mob farm?
+[12:53:39] [Server thread/INFO]: <Shiga> boa pergunta
+[12:53:55] [Server thread/INFO]: <Shiga> acho que no meio do mar
+[12:56:08] [Server thread/INFO]: <incalto> faço quantos blocos de distancia da base?
+[12:56:13] [Server thread/INFO]: <incalto> 128?
+[12:56:19] [Server thread/INFO]: <Shiga> sei nao
+[12:56:54] [Server thread/INFO]: <incalto> vou fazer uns 200 blocos de distancia pra ficar safe
+[13:04:43] [Server thread/INFO]: <incalto> vish
+[13:04:44] [Server thread/INFO]: <incalto> dormir
+[13:04:55] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[13:04:55] [Server thread/INFO]: VJunTU left the game
+[13:05:00] [User Authenticator #22/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[13:05:00] [Server thread/INFO]: VJunTU[/179.208.73.25:61732] logged in with entity id 221969 at (-73.33464070185529, 16.0, -101.74589392436859)
+[13:05:00] [Server thread/INFO]: VJunTU joined the game
+[13:16:44] [Server thread/INFO]: <Shiga> é agr comida nao falta mais
+[13:16:46] [Server thread/INFO]: <Shiga> amem
+[13:16:49] [Server thread/INFO]: <incalto> amem
+[13:23:21] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[13:23:21] [Server thread/INFO]: VJunTU left the game
+[13:34:05] [Server thread/INFO]: Shiga lost connection: Disconnected
+[13:34:05] [Server thread/INFO]: Shiga left the game
+[13:40:35] [User Authenticator #23/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[13:40:35] [Server thread/INFO]: VJunTU[/179.208.73.25:52430] logged in with entity id 233875 at (-73.48089475957924, 16.0, -139.6283610993994)
+[13:40:35] [Server thread/INFO]: VJunTU joined the game
+[13:49:39] [User Authenticator #24/INFO]: Disconnecting /198.199.72.162:53730: Failed to verify username!
+[13:49:39] [User Authenticator #24/ERROR]: Username 'Herobrine' tried to join with an invalid session
+[13:49:39] [Server thread/INFO]: /198.199.72.162:53730 lost connection: Failed to verify username!
+[13:49:50] [User Authenticator #25/INFO]: UUID of player matscan is ff47729b-d0d2-4af0-98b1-1c0a7e1b0eef
+[13:49:50] [Server thread/INFO]: matscan[/198.199.72.162:50384] logged in with entity id 237528 at (65.5, 75.0, -90.5)
+[13:49:50] [Server thread/INFO]: matscan joined the game
+[13:49:50] [Server thread/INFO]: <matscan> Hello. I'm a friendly bot that scans the internet for Minecraft servers.
+[13:49:50] [Server thread/INFO]: <matscan> If this server was meant to be private, you should strongly consider enabling a whitelist. Otherwise, at least make sure you have backups enabled to prevent malicious players from doing permanent damage.
+[13:49:50] [Server thread/INFO]: <matscan> - mat | FAQ: https://matdoes.dev/matscan
+[13:49:53] [Server thread/INFO]: matscan lost connection: Disconnected
+[13:49:53] [Server thread/INFO]: matscan left the game
+[14:05:16] [Server thread/INFO]: VJunTU was shot by Skeleton
+[14:05:55] [Server thread/INFO]: VJunTU has made the advancement [Suit Up]
+[14:07:51] [User Authenticator #26/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[14:07:51] [Server thread/INFO]: Shiga[/191.19.79.254:58585] logged in with entity id 244115 at (40.30305384984182, 73.0, -84.88412258527491)
+[14:07:51] [Server thread/INFO]: Shiga joined the game
+[14:33:50] [Server thread/INFO]: <VJunTU> que susto
+[14:33:53] [Server thread/INFO]: <VJunTU> AHAHAHA
+[14:34:04] [Server thread/INFO]: <Shiga> kkkk
+[14:34:56] [Server thread/INFO]: <Shiga> caio vc ta com a pica de fortune ai
+[14:36:27] [Server thread/INFO]: [Shiga: Added incalto to the whitelist]
+[14:36:33] [Server thread/INFO]: [Shiga: Added Shiga to the whitelist]
+[14:36:38] [Server thread/INFO]: [Shiga: Added VJunTU to the whitelist]
+[14:36:46] [Server thread/INFO]: [Shiga: Added mushebinha to the whitelist]
+[14:46:39] [Server thread/INFO]: <incalto> 54 175
+[14:57:31] [Server thread/INFO]: [Shiga: Made VJunTU a server operator]
+[14:59:47] [Server thread/INFO]: VJunTU has made the advancement [Sweet Dreams]
+[15:01:10] [Server thread/INFO]: incalto lost connection: Disconnected
+[15:01:10] [Server thread/INFO]: incalto left the game
+[15:01:31] [Server thread/INFO]: Shiga lost connection: Disconnected
+[15:01:31] [Server thread/INFO]: Shiga left the game
+[15:01:38] [User Authenticator #27/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[15:01:38] [Server thread/INFO]: Shiga[/191.19.79.254:60157] logged in with entity id 267589 at (-95.65718354060712, -55.0, 32.4614916053044)
+[15:01:38] [Server thread/INFO]: Shiga joined the game
+[15:01:38] [User Authenticator #28/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
+[15:01:38] [Server thread/INFO]: incalto[/187.57.16.185:50293] logged in with entity id 267647 at (53.70681944101537, 192.0, 150.74993505878783)
+[15:01:38] [Server thread/INFO]: incalto joined the game
+[15:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[15:16:50] [Server thread/INFO]: Shiga lost connection: Disconnected
+[15:16:50] [Server thread/INFO]: Shiga left the game
+[15:17:00] [User Authenticator #29/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[15:17:00] [Server thread/INFO]: Shiga[/191.19.79.254:60572] logged in with entity id 277074 at (-95.6330235303328, -54.0, 532.6999999880791)
+[15:17:00] [Server thread/INFO]: Shiga joined the game
+[15:20:17] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[15:20:17] [Server thread/INFO]: VJunTU left the game
+[15:26:47] [Server thread/INFO]: incalto has made the advancement [A Terrible Fortress]
+[15:28:14] [Server thread/INFO]: Shiga lost connection: Disconnected
+[15:28:14] [Server thread/INFO]: Shiga left the game
+[15:34:15] [User Authenticator #30/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[15:34:15] [Server thread/INFO]: Shiga[/191.19.79.254:61060] logged in with entity id 286275 at (39.765318025044024, 73.0, -84.98292846886845)
+[15:34:15] [Server thread/INFO]: Shiga joined the game
+[15:45:06] [User Authenticator #31/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[15:45:06] [Server thread/INFO]: VJunTU[/179.208.73.25:49283] logged in with entity id 290970 at (39.08614046317528, 73.0, -84.24486024289268)
+[15:45:06] [Server thread/INFO]: VJunTU joined the game
+[15:45:46] [Server thread/INFO]: incalto drowned
+[15:58:50] [Server thread/INFO]: [Shiga: Made VJunTU no longer a server operator]
+[16:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[16:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[16:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[16:24:37] [Server thread/INFO]: <incalto> 400 1200
+[16:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[16:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:26:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
+[16:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3454ms or 69 ticks behind
+[16:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[16:27:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[16:28:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2943ms or 58 ticks behind
+[16:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3389ms or 67 ticks behind
+[16:29:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:31:15] [Server thread/INFO]: incalto was slain by Enderman
+[16:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[16:34:17] [Server thread/INFO]: incalto lost connection: Disconnected
+[16:34:17] [Server thread/INFO]: incalto left the game
+[16:40:44] [User Authenticator #32/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
+[16:40:44] [Server thread/INFO]: incalto[/187.57.16.185:52881] logged in with entity id 316639 at (14.41976199279432, 75.0, -100.5923394288906)
+[16:40:44] [Server thread/INFO]: incalto joined the game
+[16:42:00] [Server thread/INFO]: Shiga lost connection: Disconnected
+[16:42:00] [Server thread/INFO]: Shiga left the game
+[16:49:58] [Server thread/INFO]: VJunTU was slain by Zombie
+[16:50:10] [Server thread/INFO]: incalto was shot by Skeleton
+[16:53:32] [Server thread/INFO]: incalto lost connection: Disconnected
+[16:53:32] [Server thread/INFO]: incalto left the game
+[16:57:00] [User Authenticator #33/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[16:57:00] [Server thread/INFO]: Shiga[/191.19.79.254:62310] logged in with entity id 324937 at (85.35932657679032, 72.0, -61.567138345986585)
+[16:57:00] [Server thread/INFO]: Shiga joined the game
+[17:29:22] [User Authenticator #34/INFO]: UUID of player Nabolo is 8024cd70-9526-4e2f-aa78-609607e8be9e
+[17:29:22] [Server thread/INFO]: Nabolo[/177.140.191.22:58858] logged in with entity id 334492 at (43.40477933727274, 72.0, -88.47036428802299)
+[17:29:22] [Server thread/INFO]: Nabolo joined the game
+[17:32:38] [Server thread/INFO]: [Shiga: Saved the game]
+[17:40:49] [Server thread/INFO]: Nabolo lost connection: Disconnected
+[17:40:49] [Server thread/INFO]: Nabolo left the game
+[17:49:01] [Server thread/INFO]: [Shiga: Made VJunTU a server operator]
+[17:50:10] [Server thread/INFO]: [Shiga: Made VJunTU no longer a server operator]
+[17:57:28] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[17:57:28] [Server thread/INFO]: VJunTU left the game
+[17:57:40] [User Authenticator #35/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[17:57:40] [Server thread/INFO]: VJunTU[/179.208.73.25:51159] logged in with entity id 348410 at (53.48377441121168, 191.5, 162.02192926975098)
+[17:57:40] [Server thread/INFO]: VJunTU joined the game
+[17:57:45] [Server thread/INFO]: [Shiga: Saved the game]
+[17:59:32] [Server thread/INFO]: [Shiga: Added Nabolo to the whitelist]
