@@ -4,5 +4,11 @@
     "name": "Shiga",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0ee2e2bb-7b82-4a4f-b07d-4108435e7e06",
+    "name": "Shiga",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

@@ -1,48 +1,299 @@
-[21:04:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:04:09] [ServerMain/INFO]: Loaded 7 recipes
-[21:04:09] [ServerMain/INFO]: Loaded 1271 advancements
-[21:04:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:04:10] [Server thread/INFO]: Loading properties
-[21:04:10] [Server thread/INFO]: Default game type: SURVIVAL
-[21:04:10] [Server thread/INFO]: Generating keypair
-[21:04:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:04:10] [Server thread/INFO]: Using epoll channel type
-[21:04:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:04:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:04:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:04:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:04:11] [Server thread/INFO]: Preparing level "world"
-[21:04:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:04:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:04:20] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[21:04:20] [Worker-Main-1/INFO]: Preparing spawn area: 37%
-[21:04:21] [Server thread/INFO]: Time elapsed: 6056 ms
-[21:04:21] [Server thread/INFO]: Done (10.259s)! For help, type "help"
-[21:04:55] [Server thread/INFO]: Shiga[/191.19.79.254:55032] logged in with entity id 238 at (5.5, 131.0, 6.5)
-[21:04:55] [Server thread/INFO]: Shiga joined the game
-[21:05:30] [Server thread/INFO]: Made Shiga a server operator
-[21:05:42] [Server thread/INFO]: [Shiga: Set own game mode to Creative Mode]
-[21:06:04] [Server thread/INFO]: [Shiga: Set own game mode to Survival Mode]
-[21:06:12] [Server thread/INFO]: [Shiga: Saved the game]
-[21:06:15] [Server thread/INFO]: Shiga lost connection: Disconnected
-[21:06:15] [Server thread/INFO]: Shiga left the game
-[21:06:37] [Server thread/INFO]: Stopping the server
-[21:06:37] [Server thread/INFO]: Stopping server
-[21:06:37] [Server thread/INFO]: Saving players
-[21:06:37] [Server thread/INFO]: Saving worlds
-[21:06:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:06:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:06:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:02] [Server thread/INFO]: incalto has made the advancement [Suit Up]
+[00:00:46] [Server thread/INFO]: Mika_hey was slain by Zombie
+[00:01:25] [Server thread/INFO]: Mika_hey was slain by Zombie
+[00:03:06] [Server thread/INFO]: FilaBoia was shot by Skeleton
+[00:03:12] [Server thread/INFO]: Mika_hey has made the advancement [Monster Hunter]
+[00:04:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=73, z=-81}
+[00:04:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=73, z=-81}
+[00:04:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=73, z=-81}
+[00:04:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=74, z=-80}
+[00:04:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=74, z=-80}
+[00:04:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=73, z=-80}
+[00:04:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=73, z=-80}
+[00:04:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=37, y=63, z=-81} gu{x=49, y=72, z=-80}
+[00:04:44] [Server thread/INFO]: Mika_hey was shot by Skeleton
+[00:05:23] [Server thread/INFO]: FilaBoia was shot by Skeleton
+[00:05:35] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=52, y=71, z=-80}
+[00:05:38] [Server thread/INFO]: FilaBoia has made the advancement [Monster Hunter]
+[00:06:01] [Server thread/INFO]: Shiga has made the advancement [Isn't It Iron Pick]
+[00:08:50] [Server thread/INFO]: FilaBoia lost connection: Disconnected
+[00:08:50] [Server thread/INFO]: FilaBoia left the game
+[00:09:52] [Server thread/INFO]: Mika_hey was shot by Skeleton
+[00:19:41] [Server thread/INFO]: VJunTU was shot by Skeleton
+[00:20:07] [Server thread/INFO]: Shiga has made the advancement [Not Today, Thank You]
+[00:20:38] [Server thread/INFO]: incalto has made the advancement [The Parrots and the Bats]
+[00:26:02] [Server thread/INFO]: Shiga has made the advancement [Suit Up]
+[00:27:45] [User Authenticator #9/INFO]: UUID of player Hid_desu is e932eb49-9770-44e1-a5b4-e451478e6ae6
+[00:27:46] [Server thread/INFO]: Hid_desu[/177.45.235.13:58796] logged in with entity id 36901 at (70.5, 63.0, -96.5)
+[00:27:46] [Server thread/INFO]: Hid_desu joined the game
+[00:30:13] [Server thread/INFO]: Hid_desu has made the advancement [Stone Age]
+[00:31:11] [Server thread/INFO]: Hid_desu has made the advancement [Getting an Upgrade]
+[00:31:44] [Server thread/INFO]: <incalto> -735 400
+[00:32:12] [Server thread/INFO]: Hid_desu has made the advancement [Acquire Hardware]
+[00:32:50] [Server thread/INFO]: Hid_desu has made the advancement [Suit Up]
+[00:33:46] [Server thread/INFO]: Hid_desu has made the advancement [Monster Hunter]
+[00:34:21] [Server thread/INFO]: Hid_desu has made the advancement [Not Today, Thank You]
+[00:37:32] [User Authenticator #10/INFO]: UUID of player FilaBoia is 2cf65646-0008-4f33-a468-9706c73f8655
+[00:37:32] [Server thread/INFO]: FilaBoia[/179.111.105.239:55695] logged in with entity id 42794 at (40.30609729491278, 73.0, -83.61109940103938)
+[00:37:32] [Server thread/INFO]: FilaBoia joined the game
+[00:39:26] [Server thread/INFO]: Mika_hey has made the advancement [Not Today, Thank You]
+[00:39:58] [Server thread/INFO]: Hid_desu was slain by Zombie
+[00:40:08] [Server thread/INFO]: Mika_hey was slain by Zombie
+[00:56:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-648, y=64, z=315} gu{x=72, y=61, z=-98}
+[00:56:02] [Server thread/INFO]: incalto has made the advancement [Sweet Dreams]
+[00:56:06] [Server thread/INFO]: Mika_hey has made the advancement [Sweet Dreams]
+[00:56:11] [Server thread/INFO]: <Mika_hey> ewdwdw
+[00:56:17] [Server thread/INFO]: Shiga has made the advancement [Sweet Dreams]
+[00:56:59] [Server thread/INFO]: FilaBoia has made the advancement [Sweet Dreams]
+[01:01:31] [Server thread/INFO]: Mika_hey was shot by Skeleton
+[01:02:05] [Server thread/INFO]: Mika_hey was shot by Skeleton
+[01:07:08] [Server thread/INFO]: Mika_hey has made the advancement [Fishy Business]
+[01:07:43] [Server thread/INFO]: VJunTU has made the advancement [Isn't It Iron Pick]
+[01:07:46] [Server thread/INFO]: Shiga has made the advancement [Diamonds!]
+[01:12:19] [Server thread/INFO]: FilaBoia has made the advancement [Not Today, Thank You]
+[01:18:39] [Server thread/INFO]: FilaBoia has made the advancement [Diamonds!]
+[01:23:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[01:24:10] [Server thread/INFO]: Mika_hey has made the advancement [Hot Stuff]
+[01:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01:26:54] [Server thread/INFO]: Hid_desu was blown up by Creeper
+[01:34:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:36:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01:37:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=639, y=73, z=-205} gu{x=50, y=61, z=-112}
+[01:41:03] [Server thread/INFO]: Shiga lost connection: Disconnected
+[01:41:03] [Server thread/INFO]: Shiga left the game
+[01:41:12] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:41:12] [Server thread/INFO]: Saved the game
+[01:43:26] [Server thread/INFO]: FilaBoia has made the advancement [Isn't It Iron Pick]
+[01:44:10] [Server thread/INFO]: FilaBoia has made the advancement [Suit Up]
+[01:45:33] [Server thread/INFO]: Mika_hey was shot by Skeleton
+[01:45:48] [Server thread/INFO]: FilaBoia was shot by Skeleton
+[01:46:07] [Server thread/INFO]: FilaBoia has made the advancement [Hot Stuff]
+[01:48:35] [Server thread/INFO]: <incalto> -130 24
+[01:49:36] [Server thread/INFO]: Mika_hey has made the advancement [Suit Up]
+[01:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:58:41] [User Authenticator #11/INFO]: UUID of player Nabolo is 8024cd70-9526-4e2f-aa78-609607e8be9e
+[01:58:41] [Server thread/INFO]: Nabolo[/177.140.191.22:50742] logged in with entity id 82185 at (90.13662824199382, 62.0, -140.48338917493524)
+[01:58:41] [Server thread/INFO]: Nabolo joined the game
+[02:00:14] [Server thread/INFO]: Nabolo has made the advancement [Sweet Dreams]
+[02:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:03:52] [Server thread/INFO]: Hid_desu was killed by Witch using magic
+[02:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[02:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[02:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[02:07:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[02:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[02:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[02:08:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4941ms or 98 ticks behind
+[02:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[02:08:44] [Server thread/INFO]: <incalto> -291 1004
+[02:08:45] [Server thread/INFO]: <FilaBoia> -291 -1004
+[02:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
+[02:09:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[02:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
+[02:09:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4828ms or 96 ticks behind
+[02:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4922ms or 98 ticks behind
+[02:10:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4402ms or 88 ticks behind
+[02:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4789ms or 95 ticks behind
+[02:11:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[02:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4598ms or 91 ticks behind
+[02:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
+[02:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:12:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4652ms or 93 ticks behind
+[02:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[02:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4663ms or 93 ticks behind
+[02:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5907ms or 118 ticks behind
+[02:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[02:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6129ms or 122 ticks behind
+[02:14:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3767ms or 75 ticks behind
+[02:15:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[02:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[02:16:54] [Server thread/INFO]: Villager byb['Villager'/79371, l='ServerLevel[world]', x=-333.07, y=84.00, z=-960.55] died, message: 'Villager was slain by Zombie'
+[02:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[02:17:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[02:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3677ms or 73 ticks behind
+[02:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[02:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[02:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[02:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[02:18:55] [User Authenticator #12/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[02:18:55] [Server thread/INFO]: Shiga[/191.19.79.254:52024] logged in with entity id 92999 at (-136.87271167535988, -46.0, 31.854383205568976)
+[02:18:55] [Server thread/INFO]: Shiga joined the game
+[02:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5789ms or 115 ticks behind
+[02:19:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
+[02:19:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[02:20:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
+[02:20:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4254ms or 85 ticks behind
+[02:20:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3889ms or 77 ticks behind
+[02:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3780ms or 75 ticks behind
+[02:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
+[02:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3731ms or 74 ticks behind
+[02:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[02:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3877ms or 77 ticks behind
+[02:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[02:23:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4537ms or 90 ticks behind
+[02:23:11] [Server thread/INFO]: Villager byb['Leatherworker'/79368, l='ServerLevel[world]', x=-323.84, y=78.94, z=-1048.66] died, message: 'Leatherworker was slain by Zombie'
+[02:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4855ms or 97 ticks behind
+[02:23:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
+[02:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
+[02:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[02:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
+[02:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5563ms or 111 ticks behind
+[02:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4385ms or 87 ticks behind
+[02:25:31] [User Authenticator #13/INFO]: UUID of player mushebinha is 48524226-9f0b-4c5a-9677-ba91052cfd69
+[02:25:31] [Server thread/INFO]: mushebinha[/191.19.79.254:52093] logged in with entity id 96385 at (67.5, 75.0, -94.5)
+[02:25:31] [Server thread/INFO]: mushebinha joined the game
+[02:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[02:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5087ms or 101 ticks behind
+[02:26:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6382ms or 127 ticks behind
+[02:26:19] [Server thread/INFO]: <incalto> 22 -60
+[02:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9178ms or 183 ticks behind
+[02:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6449ms or 128 ticks behind
+[02:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4558ms or 91 ticks behind
+[02:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
+[02:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4699ms or 93 ticks behind
+[02:28:12] [Server thread/INFO]: mushebinha has made the advancement [Stone Age]
+[02:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
+[02:28:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4888ms or 97 ticks behind
+[02:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4760ms or 95 ticks behind
+[02:29:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4234ms or 84 ticks behind
+[02:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
+[02:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3802ms or 76 ticks behind
+[02:30:00] [Server thread/INFO]: mushebinha has made the advancement [Acquire Hardware]
+[02:30:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4439ms or 88 ticks behind
+[02:30:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[02:30:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:31:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:31:20] [Server thread/INFO]: mushebinha has made the advancement [Getting an Upgrade]
+[02:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[02:32:29] [Server thread/INFO]: mushebinha has made the advancement [Isn't It Iron Pick]
+[02:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:33:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:33:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-373, y=85, z=-608} gu{x=-373, y=85, z=-609}
+[02:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:34:45] [Server thread/INFO]: <Mika_hey> -381 87 -583 Cavalo
+[02:35:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[02:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[02:37:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[02:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[02:37:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:38:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[02:38:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[02:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[02:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[02:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:42:34] [Server thread/INFO]: <Shiga> -124 -30 -28
+[02:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:43:08] [Server thread/INFO]: mushebinha has made the advancement [Sweet Dreams]
+[02:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[02:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:44:20] [Server thread/INFO]: <Shiga> -71 -30 -89
+[02:44:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:45:26] [Server thread/INFO]: <Shiga> -162 -25 39 skel spawner
+[02:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02:46:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:50:40] [Server thread/INFO]: Hid_desu has made the advancement [Fishy Business]
+[02:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[02:51:38] [Server thread/INFO]: <incalto> 22 -60
+[02:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[02:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4110ms or 82 ticks behind
+[02:52:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[02:53:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[02:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[02:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4774ms or 95 ticks behind
+[02:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4130ms or 82 ticks behind
+[02:54:25] [Server thread/INFO]: mushebinha has made the advancement [Suit Up]
+[02:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[02:54:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
+[02:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[02:55:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3417ms or 68 ticks behind
+[02:55:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
+[02:55:54] [Server thread/INFO]: incalto has made the advancement [Ice Bucket Challenge]
+[02:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2707ms or 54 ticks behind
+[02:56:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
+[02:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4747ms or 94 ticks behind
+[02:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5825ms or 116 ticks behind
+[02:57:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5372ms or 107 ticks behind
+[02:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3788ms or 75 ticks behind
+[02:57:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[02:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4266ms or 85 ticks behind
+[02:58:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4163ms or 83 ticks behind
+[02:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3828ms or 76 ticks behind
+[02:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[02:59:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6020ms or 120 ticks behind
+[02:59:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6453ms or 129 ticks behind
+[03:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7229ms or 144 ticks behind
+[03:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5322ms or 106 ticks behind
+[03:01:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4371ms or 87 ticks behind
+[03:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3778ms or 75 ticks behind
+[03:01:31] [Server thread/INFO]: mushebinha has made the advancement [A Seedy Place]
+[03:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
+[03:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[03:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4148ms or 82 ticks behind
+[03:02:16] [Server thread/INFO]: Hid_desu has made the advancement [Sweet Dreams]
+[03:02:17] [Server thread/INFO]: Mika_hey lost connection: Disconnected
+[03:02:17] [Server thread/INFO]: Mika_hey left the game
+[03:02:18] [Server thread/INFO]: VJunTU lost connection: Disconnected
+[03:02:18] [Server thread/INFO]: VJunTU left the game
+[03:02:19] [Server thread/INFO]: Nabolo lost connection: Disconnected
+[03:02:19] [Server thread/INFO]: Nabolo left the game
+[03:02:32] [User Authenticator #14/INFO]: UUID of player Mika_hey is 12bda7d2-6dee-429e-b829-ece0a3c36a59
+[03:02:32] [Server thread/INFO]: Mika_hey[/177.115.28.68:58237] logged in with entity id 120141 at (354.64167608593016, 69.0, 108.98113801281472)
+[03:02:32] [Server thread/INFO]: Mika_hey joined the game
+[03:02:33] [User Authenticator #15/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
+[03:02:33] [Server thread/INFO]: VJunTU[/179.208.73.25:59214] logged in with entity id 120212 at (-18.8448826609372, 16.0, -105.53570913969773)
+[03:02:33] [Server thread/INFO]: VJunTU joined the game
+[03:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03:02:55] [User Authenticator #16/INFO]: UUID of player Nabolo is 8024cd70-9526-4e2f-aa78-609607e8be9e
+[03:02:55] [Server thread/INFO]: Nabolo[/177.140.191.22:52198] logged in with entity id 120527 at (-163.69999998807907, 57.0, -545.6999999880791)
+[03:02:55] [Server thread/INFO]: Nabolo joined the game
+[03:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[03:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[03:05:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=383, y=63, z=-73} gu{x=75, y=67, z=-80}
+[03:07:31] [Server thread/INFO]: mushebinha has made the advancement [The Parrots and the Bats]
+[03:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03:17:57] [Server thread/INFO]: FilaBoia lost connection: Disconnected
+[03:17:57] [Server thread/INFO]: FilaBoia left the game
+[03:23:18] [Server thread/INFO]: Nabolo was blown up by Creeper
+[03:24:29] [Server thread/INFO]: Mika_hey lost connection: Disconnected
+[03:24:29] [Server thread/INFO]: Mika_hey left the game
+[03:26:10] [Server thread/INFO]: Hid_desu lost connection: Disconnected
+[03:26:10] [Server thread/INFO]: Hid_desu left the game
+[03:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[03:28:11] [Server thread/INFO]: Nabolo tried to swim in lava
+[03:28:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=46, y=76, z=-90} gu{x=48, y=76, z=-90}
+[03:29:25] [Server thread/INFO]: Nabolo lost connection: Disconnected
+[03:29:25] [Server thread/INFO]: Nabolo left the game
+[03:30:40] [Server thread/INFO]: mushebinha lost connection: Disconnected
+[03:30:40] [Server thread/INFO]: mushebinha left the game
+[03:35:42] [Server thread/INFO]: incalto has made the advancement [We Need to Go Deeper]
+[03:35:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3298ms or 65 ticks behind
+[03:38:09] [Server thread/INFO]: Shiga has made the advancement [We Need to Go Deeper]
+[03:42:56] [Server thread/INFO]: Made Shiga a server operator
+[03:43:02] [Server thread/INFO]: [Shiga: Saved the game]
+[03:49:10] [Server thread/INFO]: Shiga has made the advancement [Enchanter]
+[03:58:32] [Server thread/INFO]: Shiga lost connection: Disconnected
+[03:58:32] [Server thread/INFO]: Shiga left the game
+[03:58:43] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:58:43] [Server thread/INFO]: Saved the game
