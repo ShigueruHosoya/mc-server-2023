@@ -1,354 +1,45 @@
-[00:18:57] [Server thread/INFO]: VJunTU fell from a high place
-[00:23:16] [Server thread/INFO]: VJunTU fell from a high place
-[00:46:50] [User Authenticator #56/INFO]: UUID of player FilaBoia is 2cf65646-0008-4f33-a468-9706c73f8655
-[00:46:50] [Server thread/INFO]: FilaBoia[/179.111.105.239:52921] logged in with entity id 593406 at (38.59681752168568, 73.5625, -85.89942872212289)
-[00:46:50] [Server thread/INFO]: FilaBoia joined the game
-[00:56:07] [Server thread/INFO]: VJunTU was shot by Skeleton
-[01:00:29] [Server thread/INFO]: VJunTU has made the advancement [The Cutest Predator]
-[01:15:44] [Server thread/INFO]: <FilaBoia> -43 -21 -118
-[01:20:54] [Server thread/INFO]: VJunTU has made the advancement [Tactical Fishing]
-[01:41:48] [Server thread/INFO]: <VJunTU> 36 -10 -138
-[02:17:06] [Server thread/INFO]: FilaBoia has made the advancement [Enchanter]
-[02:22:23] [Server thread/INFO]: <FilaBoia> -46 -10 -49
-[02:30:15] [Server thread/INFO]: VJunTU was shot by Skeleton
-[02:35:38] [Server thread/INFO]: VJunTU was shot by Skeleton
-[02:44:11] [Server thread/INFO]: VJunTU was blown up by Creeper
-[02:51:23] [Server thread/INFO]: VJunTU fell from a high place
-[03:37:01] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[03:37:01] [Server thread/INFO]: VJunTU left the game
-[03:37:09] [User Authenticator #57/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[03:37:09] [Server thread/INFO]: VJunTU[/179.208.73.25:59335] logged in with entity id 639844 at (-41.791480059477266, -41.0, -126.71097538017024)
-[03:37:09] [Server thread/INFO]: VJunTU joined the game
-[03:57:07] [Server thread/INFO]: FilaBoia was slain by Enderman
-[03:57:48] [Server thread/INFO]: FilaBoia was slain by Enderman
-[04:11:26] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[04:11:26] [Server thread/INFO]: VJunTU left the game
-[04:11:34] [User Authenticator #58/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[04:11:34] [Server thread/INFO]: VJunTU[/179.208.73.25:61054] logged in with entity id 655716 at (54.69999998807907, 192.0, 175.51249998807907)
-[04:11:34] [Server thread/INFO]: VJunTU joined the game
-[04:20:27] [Server thread/INFO]: VJunTU has made the advancement [Enchanter]
-[04:25:27] [Server thread/INFO]: FilaBoia lost connection: Disconnected
-[04:25:27] [Server thread/INFO]: FilaBoia left the game
-[04:57:25] [User Authenticator #59/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
-[04:57:25] [Server thread/INFO]: Shiga[/191.19.79.119:58108] logged in with entity id 670250 at (54.90231975340755, 72.0, 170.88463620388458)
-[04:57:25] [Server thread/INFO]: Shiga joined the game
-[05:00:07] [Server thread/INFO]: [Shiga: Saved the game]
-[05:04:48] [User Authenticator #60/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[05:04:48] [Server thread/INFO]: incalto[/187.57.16.185:53237] logged in with entity id 673035 at (41.28623011079148, 73.5625, -87.39890180352967)
-[05:04:48] [Server thread/INFO]: incalto joined the game
-[05:25:29] [Server thread/INFO]: incalto has made the advancement [Hot Stuff]
-[05:28:05] [Server thread/INFO]: <incalto> zzz
-[05:28:12] [Server thread/INFO]: <VJunTU> ZZZ
-[05:28:14] [Server thread/INFO]: Shiga lost connection: Disconnected
-[05:28:14] [Server thread/INFO]: Shiga left the game
-[05:28:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@684e14d5[id=<null>,name=Shiga,properties={},legacy=false] (/191.19.79.119:52673) lost connection: Disconnected
-[05:28:35] [User Authenticator #61/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
-[05:28:35] [Server thread/INFO]: Shiga[/191.19.79.119:52719] logged in with entity id 681989 at (54.593156355676676, 63.5, 167.53104435317374)
-[05:28:35] [Server thread/INFO]: Shiga joined the game
-[05:55:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=281, y=66, z=2040} gu{x=282, y=65, z=2040}
-[05:56:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=294, y=69, z=2004} gu{x=293, y=69, z=2004}
-[05:56:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=291, y=69, z=2004} gu{x=292, y=69, z=2004}
-[05:56:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=291, y=69, z=2004} gu{x=292, y=69, z=2004}
-[05:56:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=293, y=69, z=2003} gu{x=293, y=68, z=2002}
-[05:56:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=303, y=67, z=2003} gu{x=301, y=67, z=2003}
-[05:56:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=303, y=67, z=2003} gu{x=301, y=67, z=2003}
-[06:01:06] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[06:01:06] [Server thread/INFO]: VJunTU left the game
-[06:01:33] [Server thread/INFO]: incalto lost connection: Disconnected
-[06:01:33] [Server thread/INFO]: incalto left the game
-[06:02:12] [User Authenticator #62/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[06:02:12] [Server thread/INFO]: VJunTU[/179.208.73.25:50260] logged in with entity id 697338 at (299.48995445495126, 69.0, 2000.6487328116682)
-[06:02:12] [Server thread/INFO]: VJunTU joined the game
-[06:05:42] [User Authenticator #63/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[06:05:42] [Server thread/INFO]: incalto[/187.57.16.185:50185] logged in with entity id 700611 at (36.95230820678788, 67.0, 16.859905696764436)
-[06:05:42] [Server thread/INFO]: incalto joined the game
-[06:08:26] [Server thread/INFO]: Saving the game (this may take a moment!)
-[06:08:26] [Server thread/INFO]: Saved the game
-[06:08:32] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[06:08:32] [Server thread/INFO]: VJunTU left the game
-[06:08:51] [Server thread/INFO]: Shiga lost connection: Disconnected
-[06:08:51] [Server thread/INFO]: Shiga left the game
-[06:09:00] [Server thread/INFO]: Saving the game (this may take a moment!)
-[06:09:00] [Server thread/INFO]: Saved the game
-[07:52:02] [Server thread/INFO]: incalto lost connection: Disconnected
-[07:52:02] [Server thread/INFO]: incalto left the game
-[08:07:41] [User Authenticator #64/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[08:07:41] [Server thread/INFO]: incalto[/191.254.66.146:50500] logged in with entity id 726150 at (24.850973707225176, 67.0, -0.591056436097147)
-[08:07:41] [Server thread/INFO]: incalto joined the game
-[08:07:47] [Server thread/INFO]: incalto lost connection: Disconnected
-[08:07:47] [Server thread/INFO]: incalto left the game
-[08:16:38] [User Authenticator #65/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[08:16:38] [Server thread/INFO]: incalto[/191.254.66.146:50791] logged in with entity id 726419 at (24.850973707225176, 67.0, -0.591056436097147)
-[08:16:38] [Server thread/INFO]: incalto joined the game
-[08:16:53] [Server thread/INFO]: incalto lost connection: Disconnected
-[08:16:53] [Server thread/INFO]: incalto left the game
-[08:16:54] [User Authenticator #66/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[08:16:54] [Server thread/INFO]: incalto[/191.254.66.146:50806] logged in with entity id 726829 at (27.343708615793833, 67.0, -5.4447172293287585)
-[08:16:54] [Server thread/INFO]: incalto joined the game
-[08:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[09:04:21] [Server thread/INFO]: Villager byb['Villager'/744942, l='ServerLevel[world]', x=36.51, y=69.00, z=4.94] died, message: 'Villager suffocated in a wall'
-[09:58:51] [Server thread/INFO]: Villager byb['Villager'/749561, l='ServerLevel[world]', x=36.51, y=69.00, z=5.52] died, message: 'Villager suffocated in a wall'
-[10:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[10:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
-[11:28:07] [Server thread/INFO]: incalto lost connection: Disconnected
-[11:28:07] [Server thread/INFO]: incalto left the game
-[11:32:36] [User Authenticator #67/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[11:32:36] [Server thread/INFO]: incalto[/191.254.66.146:56037] logged in with entity id 796712 at (54.21541609034617, 72.0, 170.6123902294883)
-[11:32:36] [Server thread/INFO]: incalto joined the game
-[11:41:35] [Server thread/INFO]: incalto lost connection: Disconnected
-[11:41:35] [Server thread/INFO]: incalto left the game
-[11:43:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@a548cd7[id=<null>,name=incalto,properties={},legacy=false] (/191.254.66.146:56567) lost connection: Disconnected
-[11:52:49] [User Authenticator #68/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[11:52:49] [Server thread/INFO]: incalto[/191.254.66.146:50338] logged in with entity id 798861 at (54.342414729725256, 71.5, 172.48988030697558)
-[11:52:49] [Server thread/INFO]: incalto joined the game
-[12:22:08] [Server thread/INFO]: <incalto> teste
-[12:24:28] [Server thread/INFO]: incalto lost connection: Disconnected
-[12:24:28] [Server thread/INFO]: incalto left the game
-[12:24:30] [User Authenticator #69/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[12:24:30] [Server thread/INFO]: incalto[/191.254.66.146:51594] logged in with entity id 810528 at (28.195176097886083, 68.0, 0.06708171848149183)
-[12:24:30] [Server thread/INFO]: incalto joined the game
-[12:28:34] [Server thread/INFO]: incalto lost connection: Disconnected
-[12:28:34] [Server thread/INFO]: incalto left the game
-[12:28:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@38c6dea[id=<null>,name=incalto,properties={},legacy=false] (/191.254.66.146:51817) lost connection: Disconnected
-[12:30:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@10483889[id=<null>,name=incalto,properties={},legacy=false] (/191.254.66.146:51874) lost connection: Disconnected
-[12:33:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@32e02d07[id=<null>,name=incalto,properties={},legacy=false] (/191.254.66.146:52106) lost connection: Disconnected
-[12:34:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@5263e58c[id=<null>,name=incalto,properties={},legacy=false] (/191.254.66.146:52126) lost connection: Disconnected
-[12:40:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@64f1e6be[id=<null>,name=incalto,properties={},legacy=false] (/191.254.66.146:52653) lost connection: Disconnected
-[12:41:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a48a7c2[id=<null>,name=incalto,properties={},legacy=false] (/191.254.66.146:52722) lost connection: Disconnected
-[12:42:56] [User Authenticator #70/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[12:42:56] [Server thread/INFO]: incalto[/191.254.66.146:52797] logged in with entity id 811997 at (38.003676810847466, 73.0, -84.18825004973972)
-[12:42:56] [Server thread/INFO]: incalto joined the game
-[12:44:47] [Server thread/INFO]: incalto lost connection: Disconnected
-[12:44:47] [Server thread/INFO]: incalto left the game
-[12:48:43] [User Authenticator #71/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[12:48:43] [Server thread/INFO]: incalto[/177.9.82.22:51033] logged in with entity id 813075 at (27.28259733996987, 68.0, 22.69999998807907)
-[12:48:43] [Server thread/INFO]: incalto joined the game
-[13:25:16] [User Authenticator #72/INFO]: UUID of player FilaBoia is 2cf65646-0008-4f33-a468-9706c73f8655
-[13:25:16] [Server thread/INFO]: FilaBoia[/179.110.63.7:50352] logged in with entity id 822831 at (40.562449663196944, 73.5625, -82.86110086349832)
-[13:25:16] [Server thread/INFO]: FilaBoia joined the game
-[13:25:23] [Server thread/INFO]: <incalto> bom dia
-[13:25:29] [Server thread/INFO]: <FilaBoia> alo!
-[13:25:45] [Server thread/INFO]: <FilaBoia> voce entrou ontem com o Shig e o Jun?
-[13:25:47] [Server thread/INFO]: <incalto> vai entrar call?
-[13:25:48] [Server thread/INFO]: <incalto> sim
-[13:25:54] [Server thread/INFO]: <FilaBoia> bora
-[13:58:16] [Server thread/INFO]: incalto has made the advancement [What a Deal!]
-[14:16:02] [Server thread/INFO]: incalto has made the advancement [Local Brewery]
-[14:18:43] [Server thread/INFO]: Villager byb['Librarian'/821283, l='ServerLevel[world]', x=35.70, y=68.00, z=9.50] died, message: 'Librarian was slain by Zombie'
-[14:28:48] [Server thread/INFO]: incalto has reached the goal [Zombie Doctor]
-[14:48:12] [Server thread/INFO]: Villager byb['Toolsmith'/833610, l='ServerLevel[world]', x=20.30, y=68.00, z=7.50] died, message: 'Toolsmith was slain by Zombie'
-[14:49:07] [Server thread/INFO]: Villager byb['Armorer'/830473, l='ServerLevel[world]', x=20.30, y=68.00, z=5.50] died, message: 'Armorer was slain by Zombie'
-[14:57:16] [Server thread/INFO]: incalto has made the advancement [Cover Me with Diamonds]
-[15:09:02] [Server thread/INFO]: Villager byb['Villager'/839590, l='ServerLevel[world]', x=19.92, y=68.90, z=11.51] died, message: 'Villager was slain by incalto'
-[15:15:03] [Server thread/INFO]: Villager byb['Weaponsmith'/844376, l='ServerLevel[world]', x=20.30, y=68.00, z=9.50] died, message: 'Weaponsmith was slain by Zombie'
-[15:15:09] [User Authenticator #73/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[15:15:09] [Server thread/INFO]: VJunTU[/179.208.73.25:51305] logged in with entity id 860904 at (38.69570805200072, 62.0, -85.45998384095549)
-[15:15:09] [Server thread/INFO]: VJunTU joined the game
-[15:16:43] [Server thread/INFO]: VJunTU has made the advancement [Cover Me with Diamonds]
-[15:21:12] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[15:21:12] [Server thread/INFO]: VJunTU left the game
-[15:21:17] [User Authenticator #74/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[15:21:18] [Server thread/INFO]: VJunTU[/179.208.73.25:51608] logged in with entity id 864678 at (55.12583056210823, 63.0, 171.40647255156333)
-[15:21:18] [Server thread/INFO]: VJunTU joined the game
-[15:24:25] [Server thread/INFO]: Villager byb['Weaponsmith'/854259, l='ServerLevel[world]', x=20.30, y=68.00, z=9.50] died, message: 'Weaponsmith was slain by Zombie'
-[15:34:25] [Server thread/INFO]: FilaBoia fell from a high place
-[15:34:53] [Server thread/WARN]: VJunTU moved too quickly! -0.15448078386474862,-15.845031128005843,0.5863711319007621
-[15:34:53] [Server thread/WARN]: VJunTU moved too quickly! -0.13828147770558985,-13.140466994919763,0.47753257583207187
-[15:34:53] [Server thread/WARN]: VJunTU moved too quickly! -0.13828147770558985,-13.140466994919763,0.47753257583207187
-[15:36:28] [Server thread/INFO]: Villager byb['Villager'/859550, l='ServerLevel[world]', x=20.30, y=68.00, z=11.50] died, message: 'Villager was slain by Zombie'
-[15:48:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=246, y=61, z=2011} gu{x=245, y=61, z=2011}
-[15:48:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=246, y=61, z=2011} gu{x=245, y=61, z=2011}
-[15:49:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=254, y=62, z=1995} gu{x=254, y=62, z=1996}
-[15:49:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=254, y=62, z=1995} gu{x=254, y=62, z=1996}
-[15:49:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=263, y=64, z=1997} gu{x=263, y=63, z=1997}
-[15:49:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=263, y=64, z=1997} gu{x=263, y=63, z=1997}
-[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=276, y=73, z=1994} gu{x=279, y=71, z=1994}
-[15:49:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=276, y=73, z=1994} gu{x=279, y=71, z=1994}
-[15:49:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=276, y=73, z=1994} gu{x=280, y=72, z=1994}
-[15:49:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=295, y=68, z=1999} gu{x=295, y=67, z=2000}
-[15:52:06] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[15:52:06] [Server thread/INFO]: VJunTU left the game
-[15:52:15] [Server thread/INFO]: FilaBoia lost connection: Disconnected
-[15:52:15] [Server thread/INFO]: FilaBoia left the game
-[15:52:25] [User Authenticator #75/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[15:52:25] [Server thread/INFO]: VJunTU[/179.208.73.25:53272] logged in with entity id 883176 at (315.22382580929354, 62.0, 1988.699999988079)
-[15:52:25] [Server thread/INFO]: VJunTU joined the game
-[15:52:26] [User Authenticator #76/INFO]: UUID of player FilaBoia is 2cf65646-0008-4f33-a468-9706c73f8655
-[15:52:26] [Server thread/INFO]: FilaBoia[/179.110.63.7:53792] logged in with entity id 883178 at (54.69999998807907, 192.0, 175.30000001192093)
-[15:52:27] [Server thread/INFO]: FilaBoia joined the game
-[15:57:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=313, y=60, z=1980} gu{x=312, y=61, z=1979}
-[15:58:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=61, z=1990} gu{x=321, y=62, z=1990}
-[15:58:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=61, z=1990} gu{x=321, y=62, z=1990}
-[15:58:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=61, z=1990} gu{x=321, y=62, z=1990}
-[15:58:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=61, z=1990} gu{x=321, y=62, z=1990}
-[15:58:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=61, z=1990} gu{x=321, y=62, z=1990}
-[15:58:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=61, z=1990} gu{x=321, y=62, z=1990}
-[15:58:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=61, z=1990} gu{x=321, y=62, z=1990}
-[15:58:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=62, z=1993} gu{x=321, y=62, z=1991}
-[15:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=324, y=61, z=1999} gu{x=325, y=61, z=1999}
-[15:59:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=324, y=61, z=1999} gu{x=325, y=61, z=1999}
-[15:59:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=315, y=62, z=2002} gu{x=315, y=63, z=2004}
-[15:59:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=315, y=62, z=2002} gu{x=315, y=63, z=2004}
-[15:59:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=315, y=62, z=2002} gu{x=315, y=63, z=2004}
-[15:59:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=315, y=62, z=2002} gu{x=315, y=63, z=2004}
-[15:59:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=315, y=62, z=2002} gu{x=315, y=63, z=2004}
-[15:59:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=315, y=62, z=2002} gu{x=315, y=63, z=2004}
-[16:02:35] [Server thread/INFO]: Villager byb['Librarian'/810219, l='ServerLevel[world]', x=35.70, y=68.00, z=5.50] died, message: 'Librarian was slain by Zombie'
-[16:03:42] [Server thread/INFO]: FilaBoia lost connection: Disconnected
-[16:03:42] [Server thread/INFO]: FilaBoia left the game
-[16:03:43] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[16:03:43] [Server thread/INFO]: VJunTU left the game
-[16:03:55] [User Authenticator #77/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[16:03:55] [Server thread/INFO]: VJunTU[/179.208.73.25:53840] logged in with entity id 890335 at (355.43525521262296, 59.0, 2011.5825004077415)
-[16:03:55] [Server thread/INFO]: VJunTU joined the game
-[16:04:06] [User Authenticator #78/INFO]: UUID of player FilaBoia is 2cf65646-0008-4f33-a468-9706c73f8655
-[16:04:06] [Server thread/INFO]: FilaBoia[/179.110.63.7:54072] logged in with entity id 890616 at (29.810718428562385, 69.0, 3.827514970753208)
-[16:04:06] [Server thread/INFO]: FilaBoia joined the game
-[16:05:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=335, y=60, z=2027} gu{x=333, y=61, z=2027}
-[16:05:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=335, y=60, z=2027} gu{x=333, y=61, z=2027}
-[16:05:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=335, y=60, z=2027} gu{x=333, y=61, z=2027}
-[16:05:54] [Server thread/INFO]: Villager byb['Librarian'/812777, l='ServerLevel[world]', x=35.70, y=68.00, z=7.50] died, message: 'Librarian was slain by Zombie'
-[16:06:02] [Server thread/INFO]: <FilaBoia> caio? caiu do discord?
-[16:06:13] [Server thread/INFO]: <incalto> caio caiu
-[16:06:54] [Server thread/INFO]: <incalto> deu obug
-[16:07:00] [Server thread/INFO]: <incalto> não consigo entrar no discord
-[16:07:01] [Server thread/INFO]: <FilaBoia> ahh
-[16:07:03] [Server thread/INFO]: <incalto> mas o mine ta de boa
-[16:07:04] [Server thread/INFO]: <incalto> kkkkkkkk
-[16:07:06] [Server thread/INFO]: <FilaBoia> vish
-[16:07:30] [Server thread/INFO]: <VJunTU> tentou reiniciar?
-[16:07:36] [Server thread/INFO]: <incalto> vou reiniciar o pc
-[16:07:39] [Server thread/INFO]: <incalto> reiniciei o disc
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:07:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=316, y=62, z=2007} gu{x=316, y=62, z=2006}
-[16:09:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=64, z=2020} gu{x=321, y=64, z=2020}
-[16:09:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=64, z=2017} gu{x=322, y=64, z=2010}
-[16:09:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=322, y=64, z=2017} gu{x=322, y=64, z=2010}
-[16:10:25] [Server thread/INFO]: <incalto> vou reiniciar o pc
-[16:10:29] [Server thread/INFO]: incalto lost connection: Disconnected
-[16:10:29] [Server thread/INFO]: incalto left the game
-[16:13:12] [User Authenticator #79/INFO]: UUID of player incalto is 61787898-6da3-4348-a903-a8dbbe0102ac
-[16:13:12] [Server thread/INFO]: incalto[/177.9.82.22:50143] logged in with entity id 896846 at (29.416399360891766, 67.0, 7.717058589198409)
-[16:13:12] [Server thread/INFO]: incalto joined the game
-[16:14:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=352, y=61, z=2025} gu{x=352, y=60, z=2024}
-[16:14:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=352, y=61, z=2025} gu{x=352, y=60, z=2024}
-[16:14:26] [Server thread/INFO]: Villager byb['Librarian'/895262, l='ServerLevel[world]', x=35.70, y=68.00, z=7.50] died, message: 'Librarian was slain by Zombie'
-[16:14:40] [Server thread/INFO]: Villager byb['Librarian'/895309, l='ServerLevel[world]', x=35.70, y=68.00, z=5.50] died, message: 'Librarian was slain by Zombie'
-[16:14:53] [Server thread/INFO]: FilaBoia has made the advancement [Cover Me with Diamonds]
-[16:17:35] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=337, y=62, z=2013} gu{x=337, y=61, z=2015}
-[16:18:07] [Server thread/INFO]: FilaBoia lost connection: Disconnected
-[16:18:07] [Server thread/INFO]: FilaBoia left the game
-[16:18:42] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[16:18:42] [Server thread/INFO]: VJunTU left the game
-[16:18:47] [User Authenticator #80/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[16:18:47] [Server thread/INFO]: VJunTU[/179.208.73.25:54716] logged in with entity id 900600 at (320.06959941569477, 62.0, 2017.4965947140784)
-[16:18:47] [Server thread/INFO]: VJunTU joined the game
-[16:20:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=347, y=61, z=2009} gu{x=346, y=60, z=2008}
-[16:20:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=347, y=61, z=2009} gu{x=346, y=60, z=2008}
-[16:20:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=349, y=61, z=2015} gu{x=349, y=60, z=2014}
-[16:20:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=349, y=61, z=2015} gu{x=349, y=60, z=2014}
-[16:20:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=349, y=61, z=2015} gu{x=349, y=60, z=2014}
-[16:20:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=349, y=60, z=2024} gu{x=349, y=60, z=2025}
-[16:20:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=349, y=60, z=2024} gu{x=349, y=60, z=2025}
-[16:20:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=349, y=60, z=2024} gu{x=349, y=60, z=2025}
-[16:20:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=349, y=60, z=2024} gu{x=349, y=60, z=2025}
-[16:21:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=217, y=59, z=1999} gu{x=216, y=60, z=1999}
-[16:24:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=243, y=66, z=2021} gu{x=243, y=65, z=2020}
-[16:24:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=243, y=65, z=2021} gu{x=243, y=65, z=2020}
-[16:24:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=243, y=65, z=2021} gu{x=243, y=65, z=2020}
-[16:24:27] [User Authenticator #81/INFO]: UUID of player FilaBoia is 2cf65646-0008-4f33-a468-9706c73f8655
-[16:24:27] [Server thread/INFO]: FilaBoia[/179.110.63.7:54609] logged in with entity id 904770 at (38.11154510150334, 73.0, -84.51709539848763)
-[16:24:27] [Server thread/INFO]: FilaBoia joined the game
-[16:24:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:24:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=226, y=61, z=2019} gu{x=226, y=61, z=2020}
-[16:25:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=245, y=59, z=2012} gu{x=244, y=60, z=2014}
-[16:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[16:26:10] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=231, y=59, z=1998} gu{x=230, y=59, z=1998}
-[16:26:10] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=231, y=59, z=1998} gu{x=230, y=59, z=1998}
-[16:26:10] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=231, y=59, z=1998} gu{x=230, y=59, z=1998}
-[16:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[16:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5560ms or 111 ticks behind
-[16:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9501ms or 190 ticks behind
-[16:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
-[16:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
-[16:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[16:29:55] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[16:29:55] [Server thread/INFO]: VJunTU left the game
-[16:31:07] [Server thread/INFO]: <FilaBoia> -845 -1401
-[16:58:13] [Server thread/INFO]: FilaBoia has made the advancement [Ice Bucket Challenge]
-[16:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[17:00:07] [Server thread/INFO]: Villager byb['Librarian'/823563, l='ServerLevel[world]', x=35.70, y=68.00, z=11.50] died, message: 'Librarian was slain by Zombie'
-[17:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[17:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[17:01:19] [Server thread/INFO]: Villager byb['Librarian'/865046, l='ServerLevel[world]', x=35.70, y=68.00, z=13.50] died, message: 'Librarian was slain by Zombie'
-[17:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
-[17:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[17:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[17:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[17:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[17:03:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[17:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:12:32] [User Authenticator #82/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[17:12:32] [Server thread/INFO]: VJunTU[/179.208.73.25:57545] logged in with entity id 948065 at (54.65738784678027, 63.5, 161.06446611342557)
-[17:12:32] [Server thread/INFO]: VJunTU joined the game
-[17:16:29] [Server thread/INFO]: Villager byb['Villager'/891982, l='ServerLevel[world]', x=20.70, y=68.00, z=15.49] died, message: 'Villager was slain by Zombie'
-[17:17:46] [Server thread/INFO]: Villager byb['Villager'/880005, l='ServerLevel[world]', x=20.30, y=68.00, z=13.50] died, message: 'Villager was slain by Zombie'
-[17:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-179, y=61, z=-282} gu{x=50, y=61, z=-112}
-[17:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-179, y=61, z=-282} gu{x=50, y=61, z=-112}
-[17:27:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=307, y=64, z=2000} gu{x=307, y=63, z=2001}
-[17:27:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=338, y=62, z=2017} gu{x=338, y=62, z=2018}
-[17:28:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=338, y=62, z=2019} gu{x=338, y=62, z=2018}
-[17:28:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=338, y=62, z=2019} gu{x=338, y=62, z=2018}
-[17:28:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=338, y=62, z=2019} gu{x=338, y=62, z=2018}
-[17:28:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=338, y=62, z=2019} gu{x=338, y=62, z=2018}
-[17:28:29] [Server thread/INFO]: FilaBoia lost connection: Disconnected
-[17:28:29] [Server thread/INFO]: FilaBoia left the game
-[17:28:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=340, y=63, z=2015} gu{x=339, y=61, z=2015}
-[17:29:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=342, y=61, z=2022} gu{x=342, y=61, z=2021}
-[17:29:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=343, y=61, z=2024} gu{x=342, y=60, z=2024}
-[17:30:23] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[17:30:23] [Server thread/INFO]: VJunTU left the game
-[17:30:29] [User Authenticator #83/INFO]: UUID of player VJunTU is 6fdedf30-7481-40c0-9365-ed1be4ba8fe6
-[17:30:29] [Server thread/INFO]: VJunTU[/179.208.73.25:58461] logged in with entity id 962660 at (317.13994762498606, 63.0, 2023.0957917742267)
-[17:30:29] [Server thread/INFO]: VJunTU joined the game
-[17:30:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=321, y=61, z=2025} gu{x=320, y=61, z=2025}
-[17:30:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=321, y=62, z=2020} gu{x=324, y=62, z=2020}
-[17:31:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=324, y=64, z=2026} gu{x=324, y=61, z=2028}
-[17:37:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=318, y=61, z=2026} gu{x=318, y=60, z=2027}
-[17:37:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=318, y=61, z=2026} gu{x=318, y=60, z=2027}
-[17:38:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=324, y=61, z=2028} gu{x=328, y=64, z=2030}
-[17:38:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=324, y=61, z=2028} gu{x=328, y=64, z=2030}
-[17:39:03] [Server thread/INFO]: <incalto> aaaaaaaaaaaa
-[17:39:05] [Server thread/INFO]: <incalto> discord caiu
-[17:39:53] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:39:53] [Server thread/INFO]: Saved the game
-[17:39:58] [Server thread/INFO]: incalto lost connection: Disconnected
-[17:39:58] [Server thread/INFO]: incalto left the game
-[17:40:00] [Server thread/INFO]: VJunTU lost connection: Disconnected
-[17:40:00] [Server thread/INFO]: VJunTU left the game
-[17:40:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:40:04] [Server thread/INFO]: Saved the game
-[17:40:07] [Server thread/INFO]: Stopping the server
-[17:40:07] [Server thread/INFO]: Stopping server
-[17:40:07] [Server thread/INFO]: Saving players
-[17:40:07] [Server thread/INFO]: Saving worlds
-[17:40:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:40:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:40:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:40:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:40:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:40:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:40:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:59:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:59:29] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d819434_UNZIP_ME.zip
+[17:59:29] [ServerMain/INFO]: Found new data pack file/coordinates hud v1.2.4 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/fast leaf decay v2.0.7 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/gem villagers v4.4.1 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/multiplayer sleep v2.6.4 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/name colors v1.0.2 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/real time clock v1.1.4 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/track raw statistics v1.7.0 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/treasure gems v1.2.7 (MC 1.20.x).zip, loading it automatically
+[17:59:29] [ServerMain/INFO]: Found new data pack file/wandering trades v1.7.1 (MC 1.20.x).zip, loading it automatically
+[17:59:30] [ServerMain/INFO]: Loaded 7 recipes
+[17:59:30] [ServerMain/INFO]: Loaded 1282 advancements
+[17:59:31] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:59:31] [Server thread/INFO]: Loading properties
+[17:59:31] [Server thread/INFO]: Default game type: SURVIVAL
+[17:59:31] [Server thread/INFO]: Generating keypair
+[17:59:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:59:31] [Server thread/INFO]: Using epoll channel type
+[17:59:31] [Server thread/INFO]: Preparing level "world"
+[17:59:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:59:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:59:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:59:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:59:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:59:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:59:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:59:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:59:38] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[17:59:38] [Worker-Main-3/INFO]: Preparing spawn area: 13%
+[17:59:39] [Worker-Main-1/INFO]: Preparing spawn area: 67%
+[17:59:39] [Server thread/INFO]: Time elapsed: 5222 ms
+[17:59:39] [Server thread/INFO]: Done (7.998s)! For help, type "help"
+[17:59:49] [User Authenticator #1/INFO]: UUID of player Shiga is 0ee2e2bb-7b82-4a4f-b07d-4108435e7e06
+[17:59:49] [Server thread/INFO]: Shiga[/191.19.79.119:58596] logged in with entity id 191 at (54.62465234050276, 72.0, 171.17362475265824)
+[17:59:49] [Server thread/INFO]: Shiga joined the game
+[17:59:55] [Server thread/WARN]: Missing metadata in pack file/VanillaTweaks_d819434_UNZIP_ME.zip
+[17:59:55] [Server thread/WARN]: Missing metadata in pack file/VanillaTweaks_d819434_UNZIP_ME.zip
+[18:01:41] [Server thread/WARN]: Missing metadata in pack file/VanillaTweaks_d819434_UNZIP_ME.zip
+[18:01:44] [Server thread/WARN]: Missing metadata in pack file/VanillaTweaks_d819434_UNZIP_ME.zip
+[18:01:44] [Server thread/INFO]: [Shiga: Reloading!]
+[18:01:44] [Server thread/INFO]: Loaded 7 recipes
+[18:01:44] [Server thread/INFO]: Loaded 1282 advancements
+[18:01:54] [Server thread/WARN]: Missing metadata in pack file/VanillaTweaks_d819434_UNZIP_ME.zip
