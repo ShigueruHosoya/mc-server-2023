@@ -2489,11 +2489,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2023-06-26 02:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2023-06-25 23:38:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2023-06-26 02:03:44 +0000"
+    },
+    "done": true
   },
   "minecraft:end/elytra": {
     "criteria": {
