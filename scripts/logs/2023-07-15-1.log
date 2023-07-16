@@ -1,0 +1,17 @@
+[00:09:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@316d683c[id=<null>,name=Bunger,properties={},legacy=false] (/18.185.184.64:44598) lost connection: Disconnected
+[01:38:01] [User Authenticator #178/INFO]: UUID of player renderedone is 0a62e261-4d8b-42b8-9c24-a06cfe99ede6
+[01:38:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5b84ac59[id=0a62e261-4d8b-42b8-9c24-a06cfe99ede6,name=renderedone,properties={textures=[com.mojang.authlib.properties.Property@2d308c5a]},legacy=false] (/84.54.51.253:56998): You are not white-listed on this server!
+[01:38:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b84ac59[id=0a62e261-4d8b-42b8-9c24-a06cfe99ede6,name=renderedone,properties={textures=[com.mojang.authlib.properties.Property@2d308c5a]},legacy=false] (/84.54.51.253:56998) lost connection: You are not white-listed on this server!
+[01:38:01] [Server thread/WARN]: handleDisconnection() called twice
+[07:39:01] [User Authenticator #179/INFO]: UUID of player notoofy is 6832e24c-e085-4c81-9444-9dfeb266e1be
+[07:39:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@67a1636[id=6832e24c-e085-4c81-9444-9dfeb266e1be,name=notoofy,properties={textures=[com.mojang.authlib.properties.Property@571fbf94]},legacy=false] (/84.54.51.253:44012): You are not white-listed on this server!
+[07:39:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@67a1636[id=6832e24c-e085-4c81-9444-9dfeb266e1be,name=notoofy,properties={textures=[com.mojang.authlib.properties.Property@571fbf94]},legacy=false] (/84.54.51.253:44012) lost connection: You are not white-listed on this server!
+[07:39:01] [Server thread/WARN]: handleDisconnection() called twice
+[14:13:56] [User Authenticator #180/INFO]: UUID of player Rasyah is 20ee3d71-8f25-4654-92e3-8387e27671c8
+[14:13:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@43211705[id=20ee3d71-8f25-4654-92e3-8387e27671c8,name=Rasyah,properties={textures=[com.mojang.authlib.properties.Property@316ce830]},legacy=false] (/84.54.51.253:36114): You are not white-listed on this server!
+[14:13:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@43211705[id=20ee3d71-8f25-4654-92e3-8387e27671c8,name=Rasyah,properties={textures=[com.mojang.authlib.properties.Property@316ce830]},legacy=false] (/84.54.51.253:36114) lost connection: You are not white-listed on this server!
+[14:13:56] [Server thread/WARN]: handleDisconnection() called twice
+[21:48:20] [User Authenticator #181/INFO]: UUID of player InfamousMaster is b96cf1f0-3a7b-4fac-835b-d2edc81c4bc3
+[21:48:20] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3c2fb35c[id=b96cf1f0-3a7b-4fac-835b-d2edc81c4bc3,name=InfamousMaster,properties={textures=[com.mojang.authlib.properties.Property@31d4fdc5]},legacy=false] (/84.54.51.253:39466): You are not white-listed on this server!
+[21:48:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c2fb35c[id=b96cf1f0-3a7b-4fac-835b-d2edc81c4bc3,name=InfamousMaster,properties={textures=[com.mojang.authlib.properties.Property@31d4fdc5]},legacy=false] (/84.54.51.253:39466) lost connection: You are not white-listed on this server!
+[21:48:20] [Server thread/WARN]: handleDisconnection() called twice
